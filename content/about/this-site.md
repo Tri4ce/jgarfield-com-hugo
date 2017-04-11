@@ -1,7 +1,6 @@
 +++
-title = "This Site"
-description = "This Site Page"
-draft = false   
+pageTitle = "About this site"
+type = "page"
 +++
 
 # About this site

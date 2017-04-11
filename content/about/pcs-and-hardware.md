@@ -1,7 +1,6 @@
 +++
 title = "PCs and Hardware"
-description = "PCs and Hardware Page"
-draft = false   
+type = "page"
 +++
 
 # My PCs and Hardware
