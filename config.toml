@@ -7,7 +7,7 @@ theme = "hugo-theme-jgarfield"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # optionally override the site's footer with custom copyright text
-copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright = "© <a href=\"https://github.com/Tri4ce\">Justin Garfield</a> 2017"
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
@@ -15,24 +15,90 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+[[menu.navigation]]
+weight = 1
+name = "Articles"
+url = "/post"
 
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+[[menu.navigation]]
+weight = 2
+name = "Projects"
+url = "/projects"
+identifier = "projects"
 
-# custom navbar menu entry.   See the custom_navbar parameter below for
-# details.
+	[[menu.navigation]]
+	parent = "projects"
+	weight = 1
+	name = "Gaming"
+	url = "/projects/gaming"
+	identifier = "projects-gaming"
 
-[[menu.navbar]]
-  name = "Contact"
-  url = "/contact"
+		[[menu.navigation]]
+		parent = "projects-gaming"
+		weight = 1
+		name = "Blood of Sargeras Multi-purchase"
+		url = "/projects/gaming/blood-of-sargeras-multi-purchase"
+
+	[[menu.navigation]]
+	parent = "projects"
+	weight = 2
+	name = "Programming"
+	url = "/projects/programming"
+	identifier = "projects-programming"
+
+		[[menu.navigation]]
+		parent = "projects-programming"
+		weight = 1
+		name = "cppOS"
+		url = "/projects/programming/cppos"
+
+	[[menu.navigation]]
+	parent = "projects"
+	weight = 3
+	name = "Web"
+	url = "/projects/web"
+	identifier = "projects-web"
+
+		[[menu.navigation]]
+		parent = "projects-web"
+		weight = 1
+		name = "jgarfield.com"
+		url = "/projects/web/jgarfield-com"
+
+[[menu.navigation]]
+weight = 3
+name = "About"
+url = "/about"
+identifier = "about"
+
+	[[menu.navigation]]
+	parent = "about"
+	weight = 1
+	name = "Career"
+	url = "/about/career"
+
+	[[menu.navigation]]
+	parent = "about"
+	weight = 2
+	name = "My Technology Profile"
+	url = "/about/technology-profile"
+
+	[[menu.navigation]]
+	parent = "about"
+	weight = 3
+	name = "My PCs and Hardware"
+	url = "/about/pcs-and-hardware"
+
+[[menu.navigation]]
+weight = 4
+name = "Contact"
+url = "/contact"
+
 
 # Theme variables
 #
 [params]
+
   # Site author
   author = "Justin Garfield"
 
@@ -65,15 +131,13 @@ copyright = "Except where otherwise noted, content on this site is licensed unde
   # the relevant pages
   #   menu = "navbar"
   # or by specifying menu entries in a similar way to the sidebar menu above.
-  custom_navbar = true
+  useCustomNavigation = true
 
   # show sharing icons on pages/posts (default: true)
   #sharingicons = true
 
   [params.sidebar]
-    # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
-
+    
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
 
