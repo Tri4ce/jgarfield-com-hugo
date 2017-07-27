@@ -1,0 +1,50 @@
+literature = [
+    {
+        title: "Kafka Ecosystem at LinkedIn",
+        url: "https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+    {
+        title: "Building LinkedIn’s Real-time Activity Data Pipeline",
+        url: "http://sites.computer.org/debull/A12june/pipeline.pdf",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+    {
+        title: "Stream processing with Apache Samza - Current and Future",
+        url: "https://engineering.linkedin.com/blog/2016/01/whats-new-samza",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+    {
+        title: "DataFu's Hourglass: Incremental Data Processing in Hadoop",
+        url: "https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+    {
+        title: "The Log: What every software engineer should know about real-time data's unifying abstraction",
+        url: "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    }
+]
+
+books = [
+    {
+        title: "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",
+        url: "https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=sr_1_1?s=books&ie=UTF8&qid=1493134083&sr=1-1&keywords=The+Art+of+Memory+Forensics",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+     {
+        title: "OReilly - Building Microservices - 2nd Edition - Feb 2015",
+        url: "https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1493134038&sr=1-1-fkmr0&keywords=OReilly+-+Building+Microservices+-+2nd+Edition+-+Feb+2015",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+     {
+        title: "Mastering KVM Virtualization",
+        url: "https://www.amazon.com/Mastering-Virtualization-Humble-Devassy-Chirammal/dp/1784399051/ref=sr_1_1?s=books&ie=UTF8&qid=1493134014&sr=1-1&keywords=Mastering+KVM+Virtualization",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+     {
+        title: "Eric Evans Domain-Driven Design - Tackling Complexity in the Heart of Software",
+        url: "https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215",
+        dateAdded: "2017-04-25T13:27:28+05:00"
+    },
+]
