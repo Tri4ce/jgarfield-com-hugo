@@ -5,14 +5,6 @@ type = "page"
 
 Career Page
 
-<<<<<<< HEAD
-EXPERIENCE
-Enterprise Web Application / Network Engineer with over 18 years of experience implementing various technology solutions for small to medium-sized businesses. Passionate about implementing solutions that are stable, properly structured, and well-documented. Enjoys working on the entire stack from network troubleshooting, to front-end UI/UX, and everything in-between.
-
-Specialist in architectural and business logic design with web-enabled technologies. Highly determined and focused self-learner possessing a gift for solving complex problems in a fast-paced environment. Able to handle multiple tasks at once while staying organized in the process. Known for meeting deadlines and delivering software solutions that work and meet market demands.
-=======
-
-
 # Experience 
 
 Enterprise Web Application / Network Engineer with over 18 years of experience implementing various technology solutions for small to medium-sized businesses. Passionate about implementing solutions that are stable, properly structured, and well-documented. Enjoys working on the entire stack from network troubleshooting, to front-end UI/UX, and everything in-between.
@@ -82,4 +74,4 @@ Specialist in architectural and business logic design with web-enabled technolog
 * [US Patent 20100191566](http://www.patentbuddy.com/Patent/20100191566)
 * [Prudential Annuities Sales Portal - Prestigious APEX Award](http://finance.yahoo.com/news/pinpoint-global-communications-prudential-annuities-141822634.html)
 * [Timetrade Revolutionizes Appointment Setting with Timedriver](https://www.timetrade.com/about/news-events/news-item/timetrade-revolutionizes-appointment-setting-with-timedriver/)
->>>>>>> b60d0669a8c111b1031e519422edfa054291ee5d
+

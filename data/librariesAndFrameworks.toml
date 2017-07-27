@@ -1,0 +1,29 @@
+#[[project]]
+#projectName = ""
+#url = ""
+#dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[project]]
+projectName = "Apache Avro"
+url = "https://avro.apache.org/docs/current/gettingstartedjava.html"
+dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[project]]
+projectName = "Apache Samza"
+url = "http://samza.apache.org/"
+dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[project]]
+projectName = "Storm"
+url = "http://www.storm-project.net/"
+dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[project]]
+projectName = "Apache Kafka"
+url = "http://kafka.apache.org/"
+dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[project]]
+projectName = "DockerHub: Multi-Broker Apache Kafka Image"
+url = "https://hub.docker.com/r/wurstmeister/kafka/"
+dateAdded = "2017-01-01T00:00:00+05:00"

@@ -1,6 +1,6 @@
 +++
 date = "2017-03-14T08:03:34+05:00"
-draft = false
+draft = true
 title = "Update your Firmware"
 tags = [ "firmware", "security", "hardware", "upgrade" ]
 categories = [ "Security" ]

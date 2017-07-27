@@ -1,9 +1,10 @@
 +++
 date = "2017-03-20T16:11:58+05:00"
-draft = false
+draft = true
 title = "Converting a VirtualBox VM Disk to be compatible with Hyper-V"
 tags = [ "VirtualBox", "Hyper-V" ]
 categories = [ "Virtualization" ]
+image = "converting-a-virtualbox-vm-disk-to-be-compatible-with-hyper-v.png"
 +++
 
 # Overview
@@ -40,7 +41,7 @@ Your VBox VM’s disks are going to be stored as VDI files. This is a VBox forma
 7.	Click Next
 8.	Click Export
 
-Directory does not exist for Export file
+TODO: Explain "Directory does not exist for Export file" error
 
 # Extract the VM’s Disks
 

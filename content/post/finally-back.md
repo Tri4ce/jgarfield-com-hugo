@@ -1,13 +1,13 @@
 +++
-date = "2017-04-08T13:27:28+05:00"
+date = "2017-03-08T13:27:28+05:00"
 draft = false
 title = "Finally Back!"
-
+image = "finally-back.png"
 +++
 
 # So what's been happening?
 
-I've spent the past 6 months of my life researching things I've always wanted to understand and learn. After a while, I started realizing I needed to get my own site back online and get this information out there, not only to help myself retain the information, but also to get community input and start constructive conversations. I've been reading and toying with things from designing custom hardware-busses to talk to things like Intel PICs, to reading up on the Netflix OSS, to building gaming addons with LUA script.
+I've spent the past 6 months of my life researching things I've always wanted to understand and learn. After a while, I started realizing I needed to get my own site back online and get this information out there, not only to help myself retain the information, but also to get community input and start constructive conversations. I've been reading and toying with things from designing custom C drivers for things like Intel PICs, to reading up on the Netflix OSS, to building gaming addons with LUA script.
 
 # What's the overall goal of this site?
 

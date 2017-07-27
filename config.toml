@@ -1,13 +1,13 @@
 # Hugo variables
 #
-baseURL = "http://localhost/"
+baseURL = "http://192.168.1.32/"
 languageCode = "en-us"
 title = "jgarfield.com"
 theme = "hugo-theme-jgarfield"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # optionally override the site's footer with custom copyright text
-copyright = "© <a href=\"https://github.com/Tri4ce\">Justin Garfield</a> 2017"
+#copyright = "© <a href=\"https://github.com/Tri4ce\">Justin Garfield</a> 2017"
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
@@ -156,3 +156,6 @@ url = "/contact"
 #[languages.bg]
 
 # vim: ts=2 sw=2 et
+
+
+PygmentsCodeFences=true

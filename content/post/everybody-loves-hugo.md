@@ -2,7 +2,7 @@
 date = "2017-04-08T13:27:28+05:00"
 draft = false
 title = "Everybody Loves Hugo (insert LOST opening sound)"
-
+image = "everybody-loves-hugo.png"
 +++
 
 # Background

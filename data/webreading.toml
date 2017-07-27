@@ -1,0 +1,29 @@
+#[[article]]
+#title = ""
+#url = ""
+#dateAdded = "2017-01-01T00:00:00+05:00"
+
+[[article]]
+title = "The Log: What every software engineer should know about real-time data's unifying abstraction"
+url = "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"
+dateAdded = "2017-04-25T13:27:28+05:00"
+
+[[article]]
+title = "DataFu's Hourglass: Incremental Data Processing in Hadoop"
+url = "https://engineering.linkedin.com/datafu/datafus-hourglass-incremental-data-processing-hadoop"
+dateAdded = "2017-04-25T13:27:28+05:00"
+
+[[article]]
+title = "Stream processing with Apache Samza - Current and Future"
+url = "https://engineering.linkedin.com/blog/2016/01/whats-new-samza"
+dateAdded = "2017-04-25T13:27:28+05:00"
+
+[[article]]
+title = "Building LinkedIn’s Real-time Activity Data Pipeline"
+url = "http://sites.computer.org/debull/A12june/pipeline.pdf"
+dateAdded = "2017-04-25T13:27:28+05:00"
+
+[[article]]
+title = "Kafka Ecosystem at LinkedIn"
+url = "https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin"
+dateAdded = "2017-04-25T13:27:28+05:00"
